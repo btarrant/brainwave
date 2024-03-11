@@ -1,6 +1,6 @@
 # BrainWave Chatbot Application(Modern UI/UX website)
 
-This repository displays the front-end design for BrainWave, an open AI Chatbot application that redefines the conversation experience. This front-end repository is crafted with React.js and styled using TailwindCSS, exemplifing modern UI/UX principles.
+This repository displays the front-end mockup for BrainWave, an open AI Chatbot application that redefines the conversation experience. This front-end repository is crafted with React.js and styled using TailwindCSS, exemplifing modern UI/UX principles.
 
 ![alt text](https://camo.githubusercontent.com/83bae5020fcef08d253b03118ab3bc4e1a0514b784fb62783bf760a34e3f5116/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d566974652d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7669746526636f6c6f723d363436434646) ![alt text](https://camo.githubusercontent.com/6d8b126f83c0e59e37021e68c3f650c5c98915301f4bf4db9661c8d1dc2725e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d726561637426636f6c6f723d363144414642) ![alt text](https://camo.githubusercontent.com/e69f163b0b8defad9786f979113f151063a893349c1fce6647cd7a4a334c6469/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e645f4353532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7461696c77696e6463737326636f6c6f723d303642364434)
 
@@ -16,7 +16,7 @@ This repository displays the front-end design for BrainWave, an open AI Chatbot 
   - Experience a visually stunning journey as elements on the page respond to your scroll, creating a captivating parallax effect.
 
 - **Bento Box Design Layout:**
-  - Following the design principles of popular companies like Apple, ChatNexus adopts the Bento Box layout, offering an organized and intuitive user interface.
+  - Following the design principles of popular companies like Apple, BrainWave adopts the Bento Box layout, offering an organized and intuitive user interface.
 
 ## Technologies Used
 
@@ -26,14 +26,14 @@ This repository displays the front-end design for BrainWave, an open AI Chatbot 
 
 - **TailwindCSS:**
   - Style the application with TailwindCSS, utilizing a utility-first approach for rapid development.
-  - The styles are tailored to match the modern and vibrant design of ChatNexus.
+  - The styles are tailored to match the modern and vibrant design of BrainWave.
 
 ## Getting Started
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/btarrant/chatnexus.git
-   cd chatnexus
+   git clone https://github.com/btarrant/brainwave.git
+   cd brainwave
    ```
 
 2. **Install Dependencies:**
@@ -46,14 +46,8 @@ This repository displays the front-end design for BrainWave, an open AI Chatbot 
    npm start
    ```
 
-   Open your browser and visit [http://localhost:3000](http://localhost:3000) to explore ChatNexus!
+   Open your browser and visit [http://localhost:3000](http://localhost:3000) to explore BrainWave!
 
 ## Contributing
 
-We welcome contributions from the community. If you have ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-ChatNexus is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
-
-Thank you for choosing ChatNexus! We hope you enjoy the futuristic chatbot experience.
+I welcome contributions from the community. If you have ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
