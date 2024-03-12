@@ -28,7 +28,7 @@ const Hero = () => {
         md:mb-20 lg:mb:[6rem]"
         >
           <h1 className="h1 mb-6">
-            Explore the Possibilities of AI&nbsp; Chatting with {` `}
+            Explore the Possibilities of AI Chatting with {` `}
             <span className="inline-block relative">
               Brainwave{" "}
               <img
