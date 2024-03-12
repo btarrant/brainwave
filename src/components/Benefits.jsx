@@ -13,7 +13,7 @@ const Benefits = () => {
         {/* Benefits Heading */}
         {/* --------------------------------------- */}
         <Heading
-          className="md:max-w-md lg:max-w-2x1"
+          className="md:max-w-md lg:max-w-2xl"
           title="Chat Smarter, Not Harder with Brainwave"
         />
         {/* --------------------------------------- */}
