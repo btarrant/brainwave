@@ -34,7 +34,7 @@ This repository displays the front-end codebase for BrainWave, a mockup of an op
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/btarrant/brainwave.git
-   cd brainwave
+   cd chatnexus
    ```
 
 2. **Install Dependencies:**
