@@ -7,7 +7,7 @@ import Tagline from "./Tagline";
 import { Gradient } from "./design/Services";
 
 const Roadmap = () => (
-  <Section cross className="overflow-hidden" id="roadmap">
+  <Section crosses className="overflow-hidden" id="roadmap">
     <div className="container md:pb-10">
       <Heading tag="Ready to get started" title="What we're working on" />
       <div className="relative grid gap-6 md:grid-cols-2 md:gap-4 md:pb-[7rem]">
