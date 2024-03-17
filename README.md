@@ -1,6 +1,6 @@
 # BrainWave Chatbot Application(Modern UI/UX website)
 
-This repository displays the front-end codebase for BrainWave, a mockup of an open AI Chatbot application that redefines the conversation experience. This site is packaged using Vite, constructed with React.js and styled using TailwindCSS, exemplifying modern UI/UX principles.
+This repository displays the front-end codebase for BrainWave, a mockup of a responsive open AI Chatbot website that redefines the conversation experience. This project is packaged using Vite, constructed with React.js and styled using TailwindCSS, exemplifying modern UI/UX principles.
 
 DEMO - https://brainwave-one-alpha.vercel.app/
 
