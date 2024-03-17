@@ -17,16 +17,21 @@ const Roadmap = () => (
           return (
             <div
               key={item.id}
-              className={`md:flex even:md:translate-y-[7rem] p-0.25 rounded-[2.5rem] ${
-                item.colorful ? "bg-conic-gradient" : "bg-n-6"
-              }`}
+              className={`md:flex even:md:translate-y-[7rem] p-0.25 
+              rounded-[2.5rem] ${item.colorful ? "bg-conic-gradient" : "bg-n-6"}`}
             >
-              <div className="relative p-8 bg-n-8 rounded-[2.4375rem] overflow-hidden xl:p-15">
+              <div
+                className="relative p-8 bg-n-8 rounded-[2.4375rem] 
+              overflow-hidden xl:p-15"
+              >
                 <div className="absolute top-0 left-0 max-w-full">
                   <img src={grid} className="w-full" width={550} height={550} alt="Grid" />
                 </div>
                 <div className="relative z-1">
-                  <div className="flex items-center justify-between max-w-[27rem] mb-8 md:mb-20">
+                  <div
+                    className="flex items-center justify-between max-w-[27rem] 
+                  mb-8 md:mb-20"
+                  >
                     <Tagline>{item.date}</Tagline>
                     {/* -------------------------- */}
                     {/* Status */}
